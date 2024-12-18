@@ -1,0 +1,10 @@
+package com.seed.library.utility;
+
+import java.util.Comparator; 
+import com.seed.library.Book;
+
+public class CompareBookByPrice implements Comparator<Book>{
+	
+	
+
+}
